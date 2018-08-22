@@ -1,3 +1,7 @@
 # LMTNS
-LaMetric Time Node Server
-under construction, will fix once working right
+
+Installation
+Here is how you install this poly.
+
+Requirements
+Here is what is required to run this poly.
